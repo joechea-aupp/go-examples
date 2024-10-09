@@ -1,0 +1,10 @@
+{
+  "name": "bob",
+  "age": 20,
+  "city": {
+    "city_name": "Phnom Penh",
+    "city_gdp": 3177552244,
+    "city_pop": 177551222
+  },
+  "created_at": "2024-10-09"
+}
