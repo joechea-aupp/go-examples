@@ -13,6 +13,7 @@ func main() {
 	var wg sync.WaitGroup
 	// or add waitgroup here
 	// wg.Add(len(foods))
+	// the wg.add usually added in the loop
 
 	for _, food := range foods {
 		// add waitgroup per item in foods
